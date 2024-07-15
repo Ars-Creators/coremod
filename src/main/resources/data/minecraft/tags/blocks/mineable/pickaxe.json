@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "coremod:zircon_ore",
+    "coremod:zircon_block",
+    "coremod:deepslate_zircon_ore"
+  ]
+}
