@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "coremod:block/zircon_ore" }
+  }
+}

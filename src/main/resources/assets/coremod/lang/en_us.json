@@ -2,6 +2,10 @@
   "item.coremod.zircon": "Zircon",
   "item.coremod.raw_zircon": "Raw Zircon",
 
+  "block.coremod.zircon_block": "Block of Zircon",
+  "block.coremod.zircon_ore": "Zircon Ore",
+  "block.coremod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+
   "itemGroup.coretab": "Core Tab"
 
 }
