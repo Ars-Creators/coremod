@@ -2,6 +2,7 @@ package net.castro.coremod.item;
 
 import net.castro.coremod.CoreMod;
 import net.castro.coremod.item.custom.EightBallItem;
+import net.minecraft.world.item.ArrowItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -20,6 +21,9 @@ public class ModItems {
 
     public static final RegistryObject<Item> EIGHT_BALL = ITEMS.register("eight_ball",
             () -> new EightBallItem(new Item.Properties().tab(ModCreativeModeTab.CORE_MOD).stacksTo(1)));
+
+    public static final RegistryObject<Item> RUNE_A = ITEMS.register("rune_a",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CORE_MOD).stacksTo(16)));
 
 
 
